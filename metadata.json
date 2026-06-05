@@ -1,0 +1,6 @@
+{
+  "name": "Blogger Ecommerce Store",
+  "description": "A premium Blogger-integrated ecommerce storefront inspired by the Shopify Dawn theme, featuring a custom section editor, secure bKash and Nagad custom payment sandbox gateway, smart review mechanics, and modular warehouse inventory tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
