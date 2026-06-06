@@ -405,9 +405,6 @@ export default function App() {
             ))}
           </div>
 
-          <div className="max-w-7xl mx-auto w-full px-4 sm:px-6 py-6 font-sans">
-            <SEOOptimizer theme={theme} productsCount={products.length} blogsCount={blogs.length} />
-          </div>
 
           <Footer
             theme={theme}
